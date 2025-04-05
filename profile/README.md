@@ -67,7 +67,6 @@ To transform education by cultivating **optimism**, **resilience**, and **growth
 > — The Optimism Educator Team
 
 Happy teaching, empowered learning! 🌱  
-```
 
 <!--
 
