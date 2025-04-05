@@ -1,11 +1,25 @@
 ## Hi there 👋
 
 # 🌟 Optimism Educator Organization
-
+<!--
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Foptimismeducator.org)]([[https://optimismeducator.org](https://www.youtube.com/@optimismeducator)](https://www.youtube.com/@optimismeducator)) [![GitHub Org stars](https://img.shields.io/github/stars/OptimismEducator?style=social)](https://github.com/OptimismEducator) [![Twitter Follow](https://img.shields.io/twitter/follow/OptEducator?style=social)](https://twitter.com/OptEducator)
+-->
+<div align="center">
+<a hraf="#"> <img height="30" src="./assets/counter.gif" /> </a>
+
+<!-- Adding profile viewer -->
+
+
+<!-- <img src="https://komarev.com/ghpvc/?username=iamAntimPal" alt="https://github.com/ileriayo" /> -->
+
+<a href="#"> <img height="25" src="https://img.shields.io/github/followers/Optimism-Educators?label=Follower&style=social" /></a>
+<a href="#"> <img height="25" src="https://img.shields.io/github/stars/Optimism-Educators?label=Stars&style=social" /></a>
+<a href="https://www.youtube.com/@OptimismEducator"> <img height="25" src="https://img.shields.io/youtube/channel/views/UCNUqyKS4ku8veMMYxEqg-pg?label=Views&style=social" /></a>
+<a href="https://www.youtube.com/@OptimismEducator"> <img height="25" src="https://img.shields.io/youtube/channel/subscribers/UCNUqyKS4ku8veMMYxEqg-pg?label=subscribers&style=social" /></a>
+
+</div>
 
 ---
-
 ## ✨ Our Vision
 
 To transform education by cultivating **optimism**, **resilience**, and **growth mindsets** in classrooms around the world.
