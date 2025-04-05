@@ -2,7 +2,7 @@
 
 # 🌟 Optimism Educator Organization
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Foptimismeducator.org)]([https://optimismeducator.org](https://www.youtube.com/@optimismeducator)) [![GitHub Org stars](https://img.shields.io/github/stars/OptimismEducator?style=social)](https://github.com/OptimismEducator) [![Twitter Follow](https://img.shields.io/twitter/follow/OptEducator?style=social)](https://twitter.com/OptEducator)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Foptimismeducator.org)]([[https://optimismeducator.org](https://www.youtube.com/@optimismeducator)](https://www.youtube.com/@optimismeducator)) [![GitHub Org stars](https://img.shields.io/github/stars/OptimismEducator?style=social)](https://github.com/OptimismEducator) [![Twitter Follow](https://img.shields.io/twitter/follow/OptEducator?style=social)](https://twitter.com/OptEducator)
 
 ---
 
